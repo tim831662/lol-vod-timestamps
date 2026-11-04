@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-04T21:58:49.070774Z",
+  "publishedAt": "2026-11-04T22:04:07.190436Z",
   "videos": [
     {
       "videoId": "J7wF_Cl4Fz4",
@@ -176,6 +176,88 @@
             {
               "kind": "game_start",
               "seconds": 19145.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "videoId": "1t2HMUuiMpE",
+      "revision": 1,
+      "duration": 22115.633333,
+      "games": [
+        {
+          "id": "76de1cdd7893",
+          "series": 1,
+          "number": 1,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 3934.5
+            },
+            {
+              "kind": "game_start",
+              "seconds": 4381.5
+            }
+          ]
+        },
+        {
+          "id": "ee9411ecd949",
+          "series": 1,
+          "number": 2,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 6796.5
+            },
+            {
+              "kind": "game_start",
+              "seconds": 7235.0
+            }
+          ]
+        },
+        {
+          "id": "850d9ae8831f",
+          "series": 2,
+          "number": 1,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 12726.75
+            },
+            {
+              "kind": "game_start",
+              "seconds": 13164.5
+            }
+          ]
+        },
+        {
+          "id": "ef5d4920c411",
+          "series": 2,
+          "number": 2,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 15596.0
+            },
+            {
+              "kind": "game_start",
+              "seconds": 16063.5
+            }
+          ]
+        },
+        {
+          "id": "2372ea2d0925",
+          "series": 2,
+          "number": 3,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 19085.25
+            },
+            {
+              "kind": "game_start",
+              "seconds": 19548.25
             }
           ]
         }
