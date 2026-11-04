@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-11-04T21:58:49.070774Z",
+  "videos": [
+    {
+      "videoId": "J7wF_Cl4Fz4",
+      "revision": 1,
+      "duration": 29132.466667,
+      "games": [
+        {
+          "id": "8373e21d5235",
+          "series": 1,
+          "number": 1,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 3898.5
+            },
+            {
+              "kind": "game_start",
+              "seconds": 4222.5
+            }
+          ]
+        },
+        {
+          "id": "ce36773c4628",
+          "series": 1,
+          "number": 2,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 7374.5
+            },
+            {
+              "kind": "game_start",
+              "seconds": 7758.75
+            }
+          ]
+        },
+        {
+          "id": "ce81dc2afdcf",
+          "series": 2,
+          "number": 1,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 10334.75
+            },
+            {
+              "kind": "game_start",
+              "seconds": 10820.5
+            }
+          ]
+        },
+        {
+          "id": "f2b83c6db679",
+          "series": 2,
+          "number": 2,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 13674.5
+            },
+            {
+              "kind": "game_start",
+              "seconds": 14089.25
+            }
+          ]
+        },
+        {
+          "id": "9cf201b186c5",
+          "series": 2,
+          "number": 3,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 17664.25
+            },
+            {
+              "kind": "game_start",
+              "seconds": 18114.75
+            }
+          ]
+        },
+        {
+          "id": "2f8cad7e0fc8",
+          "series": 3,
+          "number": 1,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 21336.5
+            },
+            {
+              "kind": "game_start",
+              "seconds": 21801.5
+            }
+          ]
+        },
+        {
+          "id": "2ad63e9741d8",
+          "series": 3,
+          "number": 2,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 25063.75
+            },
+            {
+              "kind": "game_start",
+              "seconds": 25539.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "videoId": "H7sAwHBmclg",
+      "revision": 1,
+      "duration": 22470.533333,
+      "games": [
+        {
+          "id": "2139537fab62",
+          "series": 1,
+          "number": 1,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 3996.0
+            },
+            {
+              "kind": "game_start",
+              "seconds": 4426.5
+            }
+          ]
+        },
+        {
+          "id": "04e1becb434b",
+          "series": 1,
+          "number": 2,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 7128.5
+            },
+            {
+              "kind": "game_start",
+              "seconds": 7590.75
+            }
+          ]
+        },
+        {
+          "id": "b77c4ad0fe96",
+          "series": 1,
+          "number": 3,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 11166.0
+            },
+            {
+              "kind": "game_start",
+              "seconds": 11682.5
+            }
+          ]
+        },
+        {
+          "id": "bfd0b41129eb",
+          "series": 1,
+          "number": 4,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 18710.5
+            },
+            {
+              "kind": "game_start",
+              "seconds": 19145.75
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
