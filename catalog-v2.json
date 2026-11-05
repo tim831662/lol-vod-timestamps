@@ -22,7 +22,11 @@
             }
           ],
           "events": [],
-          "grouping": "match"
+          "grouping": "match",
+          "teams": [
+            "KC",
+            "MKOI"
+          ]
         },
         {
           "id": "ce36773c4628",
@@ -39,7 +43,11 @@
             }
           ],
           "events": [],
-          "grouping": "match"
+          "grouping": "match",
+          "teams": [
+            "KC",
+            "MKOI"
+          ]
         },
         {
           "id": "ce81dc2afdcf",
@@ -56,7 +64,11 @@
             }
           ],
           "events": [],
-          "grouping": "match"
+          "grouping": "match",
+          "teams": [
+            "LYON",
+            "LOS"
+          ]
         },
         {
           "id": "f2b83c6db679",
@@ -73,7 +85,11 @@
             }
           ],
           "events": [],
-          "grouping": "match"
+          "grouping": "match",
+          "teams": [
+            "LYON",
+            "LOS"
+          ]
         },
         {
           "id": "9cf201b186c5",
@@ -90,7 +106,11 @@
             }
           ],
           "events": [],
-          "grouping": "match"
+          "grouping": "match",
+          "teams": [
+            "LYON",
+            "LOS"
+          ]
         },
         {
           "id": "2f8cad7e0fc8",
@@ -107,7 +127,11 @@
             }
           ],
           "events": [],
-          "grouping": "match"
+          "grouping": "match",
+          "teams": [
+            "BLG",
+            "HLE"
+          ]
         },
         {
           "id": "2ad63e9741d8",
@@ -124,7 +148,11 @@
             }
           ],
           "events": [],
-          "grouping": "match"
+          "grouping": "match",
+          "teams": [
+            "BLG",
+            "HLE"
+          ]
         }
       ]
     },
@@ -148,7 +176,11 @@
             }
           ],
           "events": [],
-          "grouping": "match"
+          "grouping": "match",
+          "teams": [
+            "TES",
+            "IG"
+          ]
         },
         {
           "id": "04e1becb434b",
@@ -165,7 +197,11 @@
             }
           ],
           "events": [],
-          "grouping": "match"
+          "grouping": "match",
+          "teams": [
+            "TES",
+            "IG"
+          ]
         },
         {
           "id": "b77c4ad0fe96",
@@ -182,7 +218,11 @@
             }
           ],
           "events": [],
-          "grouping": "match"
+          "grouping": "match",
+          "teams": [
+            "TES",
+            "IG"
+          ]
         },
         {
           "id": "bfd0b41129eb",
@@ -199,7 +239,11 @@
             }
           ],
           "events": [],
-          "grouping": "match"
+          "grouping": "match",
+          "teams": [
+            "TES",
+            "IG"
+          ]
         }
       ]
     },
@@ -223,7 +267,11 @@
             }
           ],
           "events": [],
-          "grouping": "match"
+          "grouping": "match",
+          "teams": [
+            "KC",
+            "CFO"
+          ]
         },
         {
           "id": "ee9411ecd949",
@@ -240,7 +288,11 @@
             }
           ],
           "events": [],
-          "grouping": "match"
+          "grouping": "match",
+          "teams": [
+            "KC",
+            "CFO"
+          ]
         },
         {
           "id": "850d9ae8831f",
@@ -257,7 +309,11 @@
             }
           ],
           "events": [],
-          "grouping": "match"
+          "grouping": "match",
+          "teams": [
+            "BLG",
+            "TES"
+          ]
         },
         {
           "id": "ef5d4920c411",
@@ -274,7 +330,11 @@
             }
           ],
           "events": [],
-          "grouping": "match"
+          "grouping": "match",
+          "teams": [
+            "BLG",
+            "TES"
+          ]
         },
         {
           "id": "2372ea2d0925",
@@ -291,7 +351,11 @@
             }
           ],
           "events": [],
-          "grouping": "match"
+          "grouping": "match",
+          "teams": [
+            "BLG",
+            "TES"
+          ]
         }
       ]
     }
