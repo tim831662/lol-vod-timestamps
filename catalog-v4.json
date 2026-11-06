@@ -1,0 +1,752 @@
+{
+  "schemaVersion": 4,
+  "publishedAt": "2026-11-04T22:04:07.190436Z",
+  "videos": [
+    {
+      "videoId": "J7wF_Cl4Fz4",
+      "revision": 1,
+      "duration": 29132.466667,
+      "games": [
+        {
+          "id": "8373e21d5235",
+          "series": 1,
+          "number": 1,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 3898.5
+            },
+            {
+              "kind": "game_start",
+              "seconds": 4222.5
+            }
+          ],
+          "events": [
+            {
+              "gameClockSeconds": 692.0,
+              "id": "37ee422cdee1ad2b",
+              "kind": "dragon_fight",
+              "startSeconds": 4900.0,
+              "endSeconds": 4905.0,
+              "seekSeconds": 4885.0
+            },
+            {
+              "gameClockSeconds": 1040.0,
+              "id": "4691e5ad47335ee7",
+              "kind": "dragon_fight",
+              "startSeconds": 5248.0,
+              "endSeconds": 5272.0,
+              "seekSeconds": 5233.0
+            },
+            {
+              "gameClockSeconds": 1364.0,
+              "id": "ed94e62d9c84d978",
+              "kind": "dragon_fight",
+              "startSeconds": 5572.0,
+              "endSeconds": 5575.0,
+              "seekSeconds": 5557.0
+            },
+            {
+              "gameClockSeconds": 1647.0,
+              "id": "f4b6be80c834f12d",
+              "kind": "baron_fight",
+              "startSeconds": 5855.0,
+              "endSeconds": 5892.0,
+              "seekSeconds": 5840.0
+            },
+            {
+              "gameClockSeconds": 1758.0,
+              "id": "743d45b9d04606f0",
+              "kind": "dragon_fight",
+              "startSeconds": 5966.0,
+              "endSeconds": 6012.0,
+              "seekSeconds": 5955.0
+            },
+            {
+              "gameClockSeconds": 2074.0,
+              "id": "2a7a08135d1464b5",
+              "kind": "baron_fight",
+              "startSeconds": 6282.0,
+              "endSeconds": 6306.0,
+              "seekSeconds": 6267.0
+            },
+            {
+              "gameClockSeconds": 2163.0,
+              "id": "0b5162d5bdaf6132",
+              "kind": "dragon_fight",
+              "startSeconds": 6371.0,
+              "endSeconds": 6455.0,
+              "seekSeconds": 6356.0
+            }
+          ],
+          "grouping": "match",
+          "teams": [
+            "KC",
+            "MKOI"
+          ],
+          "objectives": [
+            {
+              "id": "cd7fd8d80b650f14",
+              "objective": "dragon",
+              "seconds": 4601.0,
+              "gameClockSeconds": 393.0,
+              "ordinal": 1,
+              "dragonType": "Mountain",
+              "teamSide": "blue"
+            },
+            {
+              "id": "05638eeeff9e8bc8",
+              "objective": "dragon",
+              "seconds": 4939.0,
+              "gameClockSeconds": 731.0,
+              "ordinal": 2,
+              "dragonType": "Hextech",
+              "teamSide": "blue",
+              "fightId": "37ee422cdee1ad2b",
+              "setupSeconds": 4885.0
+            },
+            {
+              "id": "e462d428d644fa8d",
+              "objective": "dragon",
+              "seconds": 5271.0,
+              "gameClockSeconds": 1063.0,
+              "ordinal": 3,
+              "dragonType": "Infernal",
+              "teamSide": "blue",
+              "fightId": "4691e5ad47335ee7",
+              "setupSeconds": 5233.0
+            },
+            {
+              "id": "e156c75d212352a0",
+              "objective": "dragon",
+              "seconds": 5593.0,
+              "gameClockSeconds": 1385.0,
+              "ordinal": 4,
+              "dragonType": "Infernal",
+              "teamSide": "blue",
+              "fightId": "ed94e62d9c84d978",
+              "setupSeconds": 5557.0
+            },
+            {
+              "id": "f151a77d812337ac",
+              "objective": "baron",
+              "seconds": 5915.0,
+              "gameClockSeconds": 1707.0,
+              "ordinal": 1,
+              "teamSide": "blue",
+              "fightId": "f4b6be80c834f12d",
+              "setupSeconds": 5840.0
+            },
+            {
+              "id": "07328e875bba6d6d",
+              "objective": "dragon",
+              "seconds": 6012.0,
+              "gameClockSeconds": 1804.0,
+              "ordinal": 5,
+              "dragonType": "Elder",
+              "teamSide": "red",
+              "fightId": "743d45b9d04606f0",
+              "setupSeconds": 5955.0
+            },
+            {
+              "id": "3574b8c7fcd92a09",
+              "objective": "dragon",
+              "seconds": 6459.0,
+              "gameClockSeconds": 2251.0,
+              "ordinal": 6,
+              "dragonType": "Elder",
+              "teamSide": "blue",
+              "fightId": "0b5162d5bdaf6132",
+              "setupSeconds": 6356.0
+            },
+            {
+              "id": "ea7c3f9917c3e9de",
+              "objective": "baron",
+              "seconds": 6486.0,
+              "gameClockSeconds": 2278.0,
+              "ordinal": 2
+            }
+          ],
+          "kills": [
+            {
+              "gameClockSeconds": 896.0,
+              "teamSide": "blue",
+              "id": "939e339db0993a2e",
+              "seconds": 5104.0,
+              "seekSeconds": 5089.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 935.0,
+              "teamSide": "red",
+              "id": "2c3f335684bc44c0",
+              "seconds": 5143.0,
+              "seekSeconds": 5128.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 937.0,
+              "teamSide": "red",
+              "id": "4bb33fe640471e30",
+              "seconds": 5145.0,
+              "seekSeconds": 5130.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 938.0,
+              "teamSide": "blue",
+              "id": "d003e6c562acd02d",
+              "seconds": 5146.0,
+              "seekSeconds": 5131.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 944.0,
+              "teamSide": "red",
+              "id": "13b789392b0e16b9",
+              "seconds": 5152.0,
+              "seekSeconds": 5137.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 954.0,
+              "teamSide": "red",
+              "id": "6594181df1caffa6",
+              "seconds": 5162.0,
+              "seekSeconds": 5147.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 1058.0,
+              "teamSide": "red",
+              "id": "768119787f91a3f6",
+              "seconds": 5266.0,
+              "seekSeconds": 5251.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 1069.0,
+              "teamSide": "red",
+              "id": "d4260d91e8e270d3",
+              "seconds": 5277.0,
+              "seekSeconds": 5262.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 1169.0,
+              "teamSide": "red",
+              "id": "9d638693d79f9baa",
+              "seconds": 5377.0,
+              "seekSeconds": 5362.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 1362.0,
+              "teamSide": "red",
+              "id": "2ae48b1f6a7b4267",
+              "seconds": 5570.0,
+              "seekSeconds": 5555.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 1364.0,
+              "teamSide": "blue",
+              "id": "3b0afd0070c1b0fe",
+              "seconds": 5572.0,
+              "seekSeconds": 5557.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 1368.0,
+              "teamSide": "blue",
+              "id": "6983a484b5068f11",
+              "seconds": 5576.0,
+              "seekSeconds": 5561.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 1669.0,
+              "teamSide": "blue",
+              "id": "1bd56e12973bbd4d",
+              "seconds": 5877.0,
+              "seekSeconds": 5862.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 1683.0,
+              "teamSide": "blue",
+              "id": "64c3c69a52ecc4fe",
+              "seconds": 5891.0,
+              "seekSeconds": 5876.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 1762.0,
+              "teamSide": "red",
+              "id": "0435c14a169afda9",
+              "seconds": 5970.0,
+              "seekSeconds": 5955.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 1766.0,
+              "teamSide": "red",
+              "id": "16c3d08a26634131",
+              "seconds": 5974.0,
+              "seekSeconds": 5959.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 1767.0,
+              "teamSide": "red",
+              "id": "8c2e9e545c91d78b",
+              "seconds": 5975.0,
+              "seekSeconds": 5960.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 1776.0,
+              "teamSide": "red",
+              "id": "46f5d964ff4e15cd",
+              "seconds": 5984.0,
+              "seekSeconds": 5969.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 1801.0,
+              "teamSide": "red",
+              "id": "b22be721ac97177a",
+              "seconds": 6009.0,
+              "seekSeconds": 5994.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 1875.0,
+              "teamSide": "blue",
+              "id": "d14cfd5b3d9bd3b1",
+              "seconds": 6083.0,
+              "seekSeconds": 6068.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 2088.0,
+              "teamSide": "blue",
+              "id": "7b7271f1c48b2c88",
+              "seconds": 6296.0,
+              "seekSeconds": 6281.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 2238.0,
+              "teamSide": "blue",
+              "id": "c955750a88b338e9",
+              "seconds": 6446.0,
+              "seekSeconds": 6431.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 2241.0,
+              "teamSide": "blue",
+              "id": "3b9b48af9f2a4c8f",
+              "seconds": 6449.0,
+              "seekSeconds": 6434.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 2242.0,
+              "teamSide": "red",
+              "id": "222ba484e8fc6211",
+              "seconds": 6450.0,
+              "seekSeconds": 6435.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 2392.0,
+              "teamSide": "blue",
+              "id": "e9c4b70b37e95dd9",
+              "seconds": 6600.0,
+              "seekSeconds": 6585.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 2394.0,
+              "teamSide": "blue",
+              "id": "42d14a4813302008",
+              "seconds": 6602.0,
+              "seekSeconds": 6587.0,
+              "count": 1
+            },
+            {
+              "gameClockSeconds": 2398.0,
+              "teamSide": "blue",
+              "id": "c76d3be2e1b58f38",
+              "seconds": 6606.0,
+              "seekSeconds": 6591.0,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "ce36773c4628",
+          "series": 1,
+          "number": 2,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 7374.5
+            },
+            {
+              "kind": "game_start",
+              "seconds": 7758.75
+            }
+          ],
+          "events": [],
+          "grouping": "match",
+          "teams": [
+            "KC",
+            "MKOI"
+          ],
+          "objectives": [],
+          "kills": []
+        },
+        {
+          "id": "ce81dc2afdcf",
+          "series": 2,
+          "number": 1,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 10334.75
+            },
+            {
+              "kind": "game_start",
+              "seconds": 10820.5
+            }
+          ],
+          "events": [],
+          "grouping": "match",
+          "teams": [
+            "LYON",
+            "LOS"
+          ],
+          "objectives": [],
+          "kills": []
+        },
+        {
+          "id": "f2b83c6db679",
+          "series": 2,
+          "number": 2,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 13674.5
+            },
+            {
+              "kind": "game_start",
+              "seconds": 14089.25
+            }
+          ],
+          "events": [],
+          "grouping": "match",
+          "teams": [
+            "LYON",
+            "LOS"
+          ],
+          "objectives": [],
+          "kills": []
+        },
+        {
+          "id": "9cf201b186c5",
+          "series": 2,
+          "number": 3,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 17664.25
+            },
+            {
+              "kind": "game_start",
+              "seconds": 18114.75
+            }
+          ],
+          "events": [],
+          "grouping": "match",
+          "teams": [
+            "LYON",
+            "LOS"
+          ],
+          "objectives": [],
+          "kills": []
+        },
+        {
+          "id": "2f8cad7e0fc8",
+          "series": 3,
+          "number": 1,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 21336.5
+            },
+            {
+              "kind": "game_start",
+              "seconds": 21801.5
+            }
+          ],
+          "events": [],
+          "grouping": "match",
+          "teams": [
+            "BLG",
+            "HLE"
+          ],
+          "objectives": [],
+          "kills": []
+        },
+        {
+          "id": "2ad63e9741d8",
+          "series": 3,
+          "number": 2,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 25063.75
+            },
+            {
+              "kind": "game_start",
+              "seconds": 25539.0
+            }
+          ],
+          "events": [],
+          "grouping": "match",
+          "teams": [
+            "BLG",
+            "HLE"
+          ],
+          "objectives": [],
+          "kills": []
+        }
+      ],
+      "experimental": true
+    },
+    {
+      "videoId": "H7sAwHBmclg",
+      "revision": 1,
+      "duration": 22470.533333,
+      "games": [
+        {
+          "id": "2139537fab62",
+          "series": 1,
+          "number": 1,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 3996.0
+            },
+            {
+              "kind": "game_start",
+              "seconds": 4426.5
+            }
+          ],
+          "events": [],
+          "grouping": "match",
+          "teams": [
+            "TES",
+            "IG"
+          ],
+          "objectives": [],
+          "kills": []
+        },
+        {
+          "id": "04e1becb434b",
+          "series": 1,
+          "number": 2,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 7128.5
+            },
+            {
+              "kind": "game_start",
+              "seconds": 7590.75
+            }
+          ],
+          "events": [],
+          "grouping": "match",
+          "teams": [
+            "TES",
+            "IG"
+          ],
+          "objectives": [],
+          "kills": []
+        },
+        {
+          "id": "b77c4ad0fe96",
+          "series": 1,
+          "number": 3,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 11166.0
+            },
+            {
+              "kind": "game_start",
+              "seconds": 11682.5
+            }
+          ],
+          "events": [],
+          "grouping": "match",
+          "teams": [
+            "TES",
+            "IG"
+          ],
+          "objectives": [],
+          "kills": []
+        },
+        {
+          "id": "bfd0b41129eb",
+          "series": 1,
+          "number": 4,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 18710.5
+            },
+            {
+              "kind": "game_start",
+              "seconds": 19145.75
+            }
+          ],
+          "events": [],
+          "grouping": "match",
+          "teams": [
+            "TES",
+            "IG"
+          ],
+          "objectives": [],
+          "kills": []
+        }
+      ]
+    },
+    {
+      "videoId": "1t2HMUuiMpE",
+      "revision": 1,
+      "duration": 22115.633333,
+      "games": [
+        {
+          "id": "76de1cdd7893",
+          "series": 1,
+          "number": 1,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 3934.5
+            },
+            {
+              "kind": "game_start",
+              "seconds": 4381.5
+            }
+          ],
+          "events": [],
+          "grouping": "match",
+          "teams": [
+            "KC",
+            "CFO"
+          ],
+          "objectives": [],
+          "kills": []
+        },
+        {
+          "id": "ee9411ecd949",
+          "series": 1,
+          "number": 2,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 6796.5
+            },
+            {
+              "kind": "game_start",
+              "seconds": 7235.0
+            }
+          ],
+          "events": [],
+          "grouping": "match",
+          "teams": [
+            "KC",
+            "CFO"
+          ],
+          "objectives": [],
+          "kills": []
+        },
+        {
+          "id": "850d9ae8831f",
+          "series": 2,
+          "number": 1,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 12726.75
+            },
+            {
+              "kind": "game_start",
+              "seconds": 13164.5
+            }
+          ],
+          "events": [],
+          "grouping": "match",
+          "teams": [
+            "BLG",
+            "TES"
+          ],
+          "objectives": [],
+          "kills": []
+        },
+        {
+          "id": "ef5d4920c411",
+          "series": 2,
+          "number": 2,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 15596.0
+            },
+            {
+              "kind": "game_start",
+              "seconds": 16063.5
+            }
+          ],
+          "events": [],
+          "grouping": "match",
+          "teams": [
+            "BLG",
+            "TES"
+          ],
+          "objectives": [],
+          "kills": []
+        },
+        {
+          "id": "2372ea2d0925",
+          "series": 2,
+          "number": 3,
+          "markers": [
+            {
+              "kind": "draft",
+              "seconds": 19085.25
+            },
+            {
+              "kind": "game_start",
+              "seconds": 19548.25
+            }
+          ],
+          "events": [],
+          "grouping": "match",
+          "teams": [
+            "BLG",
+            "TES"
+          ],
+          "objectives": [],
+          "kills": []
+        }
+      ]
+    }
+  ]
+}
