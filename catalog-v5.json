@@ -479,7 +479,7 @@
               "id": "8c9e5730c46b5f23",
               "kind": "objective",
               "eventSeconds": 5248.0,
-              "endSeconds": 5275.0,
+              "endSeconds": 5277.0,
               "seekSeconds": 5233.0,
               "gameClockSeconds": 1040.0,
               "objective": "dragon",
@@ -492,22 +492,7 @@
               "sourceIds": [
                 "3f8df0114ea50348",
                 "4691e5ad47335ee7",
-                "768119787f91a3f6"
-              ]
-            },
-            {
-              "id": "bee0bb3b4e23e3ca",
-              "kind": "lane_kill",
-              "eventSeconds": 5277.0,
-              "endSeconds": 5277.0,
-              "seekSeconds": 5262.0,
-              "gameClockSeconds": 1069.0,
-              "contested": false,
-              "taken": false,
-              "teamSide": "red",
-              "lane": "mid",
-              "firstBlood": false,
-              "sourceIds": [
+                "768119787f91a3f6",
                 "d4260d91e8e270d3"
               ]
             },
