@@ -86,7 +86,7 @@
           ],
           "objectives": [
             {
-              "id": "cd7fd8d80b650f14",
+              "id": "a5ea3e94a2321074",
               "objective": "dragon",
               "seconds": 4601.0,
               "gameClockSeconds": 393.0,
@@ -95,10 +95,10 @@
               "teamSide": "blue"
             },
             {
-              "id": "05638eeeff9e8bc8",
+              "id": "6fc32b25df2348b0",
               "objective": "dragon",
-              "seconds": 4939.0,
-              "gameClockSeconds": 731.0,
+              "seconds": 4938.0,
+              "gameClockSeconds": 730.0,
               "ordinal": 2,
               "dragonType": "Hextech",
               "teamSide": "blue",
@@ -106,7 +106,7 @@
               "setupSeconds": 4885.0
             },
             {
-              "id": "e462d428d644fa8d",
+              "id": "3f8df0114ea50348",
               "objective": "dragon",
               "seconds": 5271.0,
               "gameClockSeconds": 1063.0,
@@ -117,10 +117,10 @@
               "setupSeconds": 5233.0
             },
             {
-              "id": "e156c75d212352a0",
+              "id": "34f8b700ed6c409f",
               "objective": "dragon",
-              "seconds": 5593.0,
-              "gameClockSeconds": 1385.0,
+              "seconds": 5592.0,
+              "gameClockSeconds": 1384.0,
               "ordinal": 4,
               "dragonType": "Infernal",
               "teamSide": "blue",
@@ -128,17 +128,17 @@
               "setupSeconds": 5557.0
             },
             {
-              "id": "f151a77d812337ac",
+              "id": "e8f8cafd2d3f4eab",
               "objective": "baron",
-              "seconds": 5915.0,
-              "gameClockSeconds": 1707.0,
+              "seconds": 5914.0,
+              "gameClockSeconds": 1706.0,
               "ordinal": 1,
               "teamSide": "blue",
               "fightId": "f4b6be80c834f12d",
               "setupSeconds": 5840.0
             },
             {
-              "id": "07328e875bba6d6d",
+              "id": "8a3de9e8d08deeec",
               "objective": "dragon",
               "seconds": 6012.0,
               "gameClockSeconds": 1804.0,
@@ -149,7 +149,7 @@
               "setupSeconds": 5955.0
             },
             {
-              "id": "3574b8c7fcd92a09",
+              "id": "37cdd0d9709a3223",
               "objective": "dragon",
               "seconds": 6459.0,
               "gameClockSeconds": 2251.0,
@@ -160,11 +160,12 @@
               "setupSeconds": 6356.0
             },
             {
-              "id": "ea7c3f9917c3e9de",
+              "id": "a3545e2514b1ef4e",
               "objective": "baron",
-              "seconds": 6486.0,
-              "gameClockSeconds": 2278.0,
-              "ordinal": 2
+              "seconds": 6484.0,
+              "gameClockSeconds": 2276.0,
+              "ordinal": 2,
+              "teamSide": "blue"
             }
           ],
           "kills": [
