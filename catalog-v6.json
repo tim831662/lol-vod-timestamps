@@ -503,89 +503,24 @@
               "components": []
             },
             {
-              "id": "6e68b63a83bfcefb",
-              "kind": "kill",
-              "eventSeconds": 5143.0,
-              "endSeconds": 5143.0,
-              "seekSeconds": 5128.0,
-              "gameClockSeconds": 935.0,
-              "contested": false,
-              "taken": false,
-              "teamSide": "red",
-              "firstBlood": false,
-              "sourceIds": [
-                "2c3f335684bc44c0"
-              ],
-              "components": [],
-              "killCount": 1
-            },
-            {
-              "id": "96a642b6af56b985",
-              "kind": "kill",
-              "eventSeconds": 5145.0,
-              "endSeconds": 5145.0,
-              "seekSeconds": 5130.0,
-              "gameClockSeconds": 937.0,
-              "contested": false,
-              "taken": false,
-              "teamSide": "red",
-              "firstBlood": false,
-              "sourceIds": [
-                "4bb33fe640471e30"
-              ],
-              "components": [],
-              "killCount": 1
-            },
-            {
-              "id": "b4592cb3f6090746",
-              "kind": "kill",
-              "eventSeconds": 5146.0,
-              "endSeconds": 5146.0,
-              "seekSeconds": 5131.0,
-              "gameClockSeconds": 938.0,
-              "contested": false,
-              "taken": false,
+              "id": "14ad2dbe8a407e13",
+              "kind": "skirmish",
+              "eventSeconds": 5140.0,
+              "endSeconds": 5162.0,
+              "seekSeconds": 5125.0,
+              "gameClockSeconds": 932.0,
+              "contested": true,
+              "taken": true,
               "teamSide": "blue",
               "firstBlood": false,
               "sourceIds": [
-                "d003e6c562acd02d"
-              ],
-              "components": [],
-              "killCount": 1
-            },
-            {
-              "id": "ed65022bf1390e8a",
-              "kind": "kill",
-              "eventSeconds": 5152.0,
-              "endSeconds": 5152.0,
-              "seekSeconds": 5137.0,
-              "gameClockSeconds": 944.0,
-              "contested": false,
-              "taken": false,
-              "teamSide": "red",
-              "firstBlood": false,
-              "sourceIds": [
-                "13b789392b0e16b9"
-              ],
-              "components": [],
-              "killCount": 1
-            },
-            {
-              "id": "7721c9849d19b4da",
-              "kind": "kill",
-              "eventSeconds": 5162.0,
-              "endSeconds": 5162.0,
-              "seekSeconds": 5147.0,
-              "gameClockSeconds": 954.0,
-              "contested": false,
-              "taken": false,
-              "teamSide": "red",
-              "firstBlood": false,
-              "sourceIds": [
+                "2c3f335684bc44c0",
+                "4bb33fe640471e30",
+                "d003e6c562acd02d",
+                "13b789392b0e16b9",
                 "6594181df1caffa6"
               ],
-              "components": [],
-              "killCount": 1
+              "components": []
             },
             {
               "id": "8c9e5730c46b5f23",
@@ -610,12 +545,12 @@
               "components": []
             },
             {
-              "id": "954bb640bfca7191",
+              "id": "b34ad4936c414ef8",
               "kind": "kill",
-              "eventSeconds": 5377.0,
+              "eventSeconds": 5374.0,
               "endSeconds": 5377.0,
               "seekSeconds": 5362.0,
-              "gameClockSeconds": 1169.0,
+              "gameClockSeconds": 1166.0,
               "contested": false,
               "taken": false,
               "teamSide": "red",
@@ -696,12 +631,12 @@
               "components": []
             },
             {
-              "id": "19c8104789fe89c9",
+              "id": "7bb4f17c17f94c69",
               "kind": "kill",
-              "eventSeconds": 6083.0,
+              "eventSeconds": 6081.0,
               "endSeconds": 6083.0,
-              "seekSeconds": 6068.0,
-              "gameClockSeconds": 1875.0,
+              "seekSeconds": 6066.0,
+              "gameClockSeconds": 1873.0,
               "contested": false,
               "taken": false,
               "teamSide": "blue",
@@ -769,57 +704,6 @@
                 "a3545e2514b1ef4e"
               ],
               "components": []
-            },
-            {
-              "id": "10860a75764245bf",
-              "kind": "kill",
-              "eventSeconds": 6600.0,
-              "endSeconds": 6600.0,
-              "seekSeconds": 6585.0,
-              "gameClockSeconds": 2392.0,
-              "contested": false,
-              "taken": false,
-              "teamSide": "blue",
-              "firstBlood": false,
-              "sourceIds": [
-                "e9c4b70b37e95dd9"
-              ],
-              "components": [],
-              "killCount": 1
-            },
-            {
-              "id": "dd904fbea006dbab",
-              "kind": "kill",
-              "eventSeconds": 6602.0,
-              "endSeconds": 6602.0,
-              "seekSeconds": 6587.0,
-              "gameClockSeconds": 2394.0,
-              "contested": false,
-              "taken": false,
-              "teamSide": "blue",
-              "firstBlood": false,
-              "sourceIds": [
-                "42d14a4813302008"
-              ],
-              "components": [],
-              "killCount": 1
-            },
-            {
-              "id": "223f29e3f2406d9c",
-              "kind": "kill",
-              "eventSeconds": 6606.0,
-              "endSeconds": 6606.0,
-              "seekSeconds": 6591.0,
-              "gameClockSeconds": 2398.0,
-              "contested": false,
-              "taken": false,
-              "teamSide": "blue",
-              "firstBlood": false,
-              "sourceIds": [
-                "c76d3be2e1b58f38"
-              ],
-              "components": [],
-              "killCount": 1
             }
           ],
           "sideTeams": [

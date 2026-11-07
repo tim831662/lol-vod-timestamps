@@ -463,6 +463,25 @@
               ]
             },
             {
+              "id": "14ad2dbe8a407e13",
+              "kind": "skirmish",
+              "eventSeconds": 5140.0,
+              "endSeconds": 5162.0,
+              "seekSeconds": 5125.0,
+              "gameClockSeconds": 932.0,
+              "contested": true,
+              "taken": true,
+              "teamSide": "blue",
+              "firstBlood": false,
+              "sourceIds": [
+                "2c3f335684bc44c0",
+                "4bb33fe640471e30",
+                "d003e6c562acd02d",
+                "13b789392b0e16b9",
+                "6594181df1caffa6"
+              ]
+            },
+            {
               "id": "8c9e5730c46b5f23",
               "kind": "objective",
               "eventSeconds": 5248.0,
